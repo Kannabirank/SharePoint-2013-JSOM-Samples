@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2b3dc4e8-81be-447a-8adc-3720e8ec2dd7" 
+        solutionId="2b3dc4e8-81be-447a-8adc-3720e8ec2dd7" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="JSOM_Samples"
+        sharePointProductVersion="15.0">
+</package>

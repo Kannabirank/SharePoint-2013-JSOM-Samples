@@ -53,6 +53,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="5. Get All Field names in List.js" />
+    <Content Include="50. Check User Permission.js" />
+    <Content Include="4. Create List Item.js" />
     <Content Include="1. Load SP.JS reference.js" />
     <Content Include="3. Get Current User.js">
       <SubType>Designer</SubType>
@@ -60,6 +63,7 @@
     <Content Include="2. Get ClientContext Reference.js">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Client Side Rendering\DiscussionList.js" />
     <Content Include="JSOM.js" />
     <Content Include="Scripts\SP.debug.js" />
     <Content Include="Scripts\_references.js" />

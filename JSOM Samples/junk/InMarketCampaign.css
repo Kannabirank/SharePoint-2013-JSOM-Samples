@@ -1,0 +1,26 @@
+﻿.teq-imc-container {
+    clear:both;
+}
+.teq-imc-PictureContainer {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    float: left;
+}
+.teq-imc-LinesContainer {
+    margin-left: 110px;
+    vertical-align: top;
+    max-width: 540px;
+}
+.teq-imc-noWrap {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.teq-imc-ArticleTitle {
+    font-size:13px;
+}
+.teq-imc-ArticleDescription {
+    font-size:12px;
+}

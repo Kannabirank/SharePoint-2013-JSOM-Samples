@@ -9,3 +9,4 @@
 /// <reference path="~/_layouts/15/SP.js" />
 
 /// <reference path="SP.debug.js" />
+/// <reference path="clienttemplates.debug.js" />

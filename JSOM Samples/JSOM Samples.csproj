@@ -53,20 +53,31 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="5. Get All Field names in List.js" />
-    <Content Include="50. Check User Permission.js" />
-    <Content Include="4. Create List Item.js" />
-    <Content Include="1. Load SP.JS reference.js" />
-    <Content Include="3. Get Current User.js">
-      <SubType>Designer</SubType>
-    </Content>
-    <Content Include="2. Get ClientContext Reference.js">
-      <SubType>Designer</SubType>
-    </Content>
+    <Content Include="JSOM\01. Load SP.JS reference.js" />
+    <Content Include="JSOM\02. Get ClientContext Reference.js" />
+    <Content Include="JSOM\03. Get Current User.js" />
+    <Content Include="JSOM\04. Create List Item.js" />
+    <Content Include="JSOM\041. Get List Items.js" />
+    <Content Include="JSOM\045. Get item using FileRef property.js" />
+    <Content Include="JSOM\044. Get item using CAML Query.js" />
+    <Content Include="JSOM\043. Get specific folder from list.js" />
+    <Content Include="JSOM\042. Get all folders list.js" />
+    <Content Include="JSOM\05. Get All Field names in List.js" />
+    <Content Include="JSOM\050. Check User Permission.js" />
+    <Content Include="JSOM\900 .spPageContextInfo.js" />
+    <Content Include="JSOM\App.js" />
+    <Content Include="Client Side Rendering\Default field rendering template.js" />
+    <Content Include="Client Side Rendering\Set lookup field value in listform.js" />
     <Content Include="Client Side Rendering\DiscussionList.js" />
-    <Content Include="JSOM.js" />
+    <Content Include="JSOM\JavaScript1.js" />
+    <Content Include="JSOM\JSOM.js" />
+    <Content Include="JSOM\TEQ\02. Get ClientContext Reference.js" />
+    <Content Include="oslo1.html" />
+    <Content Include="Scripts\clienttemplates.debug.js" />
     <Content Include="Scripts\SP.debug.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="XMLFile1.xml" />
+    <Content Include="XMLFile2.xml" />
     <None Include="key.snk" />
     <None Include="Package\Package.package">
       <PackageId>{2b3dc4e8-81be-447a-8adc-3720e8ec2dd7}</PackageId>
